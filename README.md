@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charl98
+- 👋 Hi, I’m @charlottetrev
 - 👀 I’m interested in data science- particularly machine learning and statistical methods
 - 🌱 I’m currently working on a machine learning vs statistics approach to clinical risk prediction
 - 💞️ I’m looking to collaborate on healthcare, social policy or education-based topics
